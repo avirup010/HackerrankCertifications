@@ -1,7 +1,7 @@
   # Hackerrank-SQL-Intermediate-Skills-Certification-Test-Solutions
 
 # Certification Details
-I took the HackerRank SQL Intermediate Skills Certification Test on 10/11/2023. The certificate can be viewed [here](https://www.hackerrank.com/certificates/iframe/74d21c9848aa).
+I took the HackerRank SQL Intermediate Skills Certification Test on 12/02/2025. The certificate can be viewed [here](https://www.hackerrank.com/certificates/iframe/74d21c9848aa).
 
 # About
 This repository contains solutions for SQL problems covered in the HackerRank SQL Intermediate Skills Certification Test. The solutions are optimized for readability and efficiency.
